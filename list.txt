@@ -1,3 +1,4 @@
+
 weintrauben
 bananen
 kekse
@@ -6,6 +7,9 @@ birnen
 bier
  - freistaedter
  - schlaegler
+ - hirter
+ - schwechater
+ - goesser
 leberkaaas
  - pikant
  - kaas
